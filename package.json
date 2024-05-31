@@ -1,16 +1,19 @@
 {
-  "name": "react-native-nested-scroll-view",
+  "name": "@react-native-oh-tpl/react-native-nested-scroll-view",
   "version": "9.0.0-0.0.1",
   "description": "React Native ScrollView replacement with NestedScrollView",
   "main": "index.js",
   "keywords": [
-    "android",
     "react-native",
     "nested-scroll"
   ],
+  "harmony": {
+    "alias": "react-native-nested-scroll-view"
+  },
   "author": "Cesar Augusto <cesardeazevedo@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "fbjs": "^3.0.5"
+    "fbjs": "^3.0.5",
+    "react-native-nested-scroll-view": "^9.0.0"
   }
 }
