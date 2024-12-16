@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-nested-scroll-view",
+        "License": "MIT License",
+        "License File": "LICENSE",
+        "Version Number": "9.0.0",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/cesardeazevedo/react-native-nested-scroll-view",
+        "Description": "react-native wrapper for android NestedScrollView"
+    }
+]
